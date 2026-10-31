@@ -189,6 +189,10 @@ RESEARCH = r"""
 <div class="card proj"><div><span class="tag">Undergraduate project</span><h4>Role of MSMEs in Reducing the Problem of Unemployment</h4>
 <p class="m" style="margin:14px 0 0">An economics project examining the contribution of micro, small and medium enterprises to employment generation, economic growth and unemployment reduction.</p></div>
 <svg viewBox="0 0 260 150" width="100%" aria-hidden="true"><circle cx="130" cy="75" r="55" fill="none" stroke="var(--sky)" stroke-width="22"/><circle cx="130" cy="75" r="55" fill="none" stroke="#2f6fb5" stroke-width="22" stroke-dasharray="210 346" transform="rotate(-90 130 75)"/></svg></div>
+<div class="card proj"><div><span class="tag">Independent Python project</span><h4>India Economic Policy Intelligence Simulator</h4>
+<p class="m" style="margin:14px 0 18px">An interactive application exploring potential macroeconomic responses to monetary and fiscal policy changes using Indian economic data. It brings together policy controls, historical indicators and an evidence section explaining the model’s assumptions and limitations.</p>
+<a class="btn" href="https://india-economic-policy-simulator-grmkpxsyjtabghnz8fmr5f.streamlit.app/" target="_blank" rel="noopener">Explore Live Simulator <span>→</span></a></div>
+<svg viewBox="0 0 260 150" width="100%" aria-hidden="true"><path d="M18 126H244M28 112L76 88L116 98L162 52L220 28" fill="none" stroke="var(--blue)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M28 112L76 88L116 98L162 52L220 28V126H28Z" fill="var(--sky)" opacity=".8"/><circle cx="76" cy="88" r="5" fill="#2f6fb5"/><circle cx="162" cy="52" r="5" fill="#2f6fb5"/><circle cx="220" cy="28" r="5" fill="#2f6fb5"/></svg></div>
 </div></div>
 """
 
